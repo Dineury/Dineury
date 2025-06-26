@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=Venom&color=0:5705fa,90:000000&height=150&text=Grettings%^^&fontColor=977ed8" />
 <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=cec3df" />
 ## I'm Dineury!!
-
+![image](src="https://capsule-render.vercel.app/api?)
 
 
 <!--
