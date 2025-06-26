@@ -1,4 +1,9 @@
-## Hi there 👋
+
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:5705fa,90:000000&height=150&text=Grettings%^^&fontColor=977ed8" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=cec3df" />
+## I'm Dineury!!
+
+
 
 <!--
 **Dineury/Dineury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
