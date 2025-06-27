@@ -26,6 +26,7 @@
      <li>JAVASCRIPT</li>
     <li>HTML</li>
     <li>VSCODE</li>
+    <li>REACT</li>
     <li>GIT,GITHUB</li>
     <li>FILMORA</li>
    </ul>
