@@ -29,4 +29,7 @@
  <a href="https://www.linkedin.com/in/dineury-lopez-b2b59b335/"> 
    <img height=50 src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png">
   </a>
+  <a href="https://www.instagram.com/dineury_l/"> 
+   <img height=50 src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-512.png">
+  </a>
 
