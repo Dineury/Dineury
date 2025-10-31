@@ -37,7 +37,7 @@
   </p>
   
   <h2>Links</h2>
- <a href="https://www.linkedin.com/in/dineury-lopez-b2b59b335/"> 
+ <a href="https://www.linkedin.com/in/dineury-lopez-rosario"> 
    <img height=30  align=left src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_linkedin-512.png">
   </a>
   <a href="https://www.instagram.com/dineury_l/"> 
