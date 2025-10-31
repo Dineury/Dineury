@@ -25,6 +25,9 @@
      <li>CSS</li>
      <li>JAVASCRIPT</li>
     <li>HTML</li>
+     <li>EXPRESS</li>
+     <li>SQLITE3</li>
+     <li>JEST</li>
     <li>VSCODE</li>
     <li>REACT</li>
     <li>GIT,GITHUB</li>
