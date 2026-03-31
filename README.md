@@ -4,7 +4,7 @@
 
 <p align="right">
 <h1>I'm Dineury🦝</h1>
-<img src="kobeniHi.jpg" height="280"> <h3>💻Full-Stack-Web Developer in progress!!🖱️</h3></img>
+<img src="kobeniHi.jpg" height="280"> <h3>💻Full-Stack-Web Developer!!🖱️</h3></img>
 </p>
 
 <p>
