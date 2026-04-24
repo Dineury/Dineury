@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:5705fa,90:000000&height=150&text=Grettings%20^^&fontColor=977ed8&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=Venom&color=0:5705fa,90:000000&height=150&text=Greetings%20^^&fontColor=977ed8&animation=fadeIn" />
 <img src="https://capsule-render.vercel.app/api?type=shark&height=110&color=cec3df&section=footer" />
 
 <p align="right">
@@ -13,7 +13,7 @@
   </p>
    <h2>Things about me:</h2>
    <ul>
-     <li>🖥️Im currently Studying web development!</li>
+     <li>I learned English all by myself</li>
      <li>🎮I love VideoGames!!!!</li>
     <li>🌎I like all languages, wish I could learn them all!</li>
     <li>🌬️I'm not good at whisteling, but I can make little chick noises🐥</li>
