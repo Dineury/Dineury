@@ -13,7 +13,7 @@
   </p>
    <h2>Things about me:</h2>
    <ul>
-     <li>I learned English all by myself</li>
+     <li>I learned English all by myself!</li>
      <li>🎮I love VideoGames!!!!</li>
     <li>🌎I like all languages, wish I could learn them all!</li>
     <li>🌬️I'm not good at whisteling, but I can make little chick noises🐥</li>
